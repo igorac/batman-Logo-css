@@ -1,3 +1,3 @@
-## Simbolo do Batman feito em CSS
+## Símbolo do Batman feito em CSS
 
 ![Logo Batman](./batman.png)
